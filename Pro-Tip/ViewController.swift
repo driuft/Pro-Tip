@@ -17,6 +17,9 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
+        // Sets the title in the Navigation Bar
+        self.title = "Pro Tip"
+        
         billAmountTextField.addTarget(self, action: #selector(textFieldChanged), for: .editingChanged)
                 
         // show keyboard

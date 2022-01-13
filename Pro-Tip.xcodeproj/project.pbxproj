@@ -16,6 +16,7 @@
 		0F7DACFA278FE661005A9E9E /* Pro_TipTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F7DACF9278FE661005A9E9E /* Pro_TipTests.swift */; };
 		0F7DAD04278FE661005A9E9E /* Pro_TipUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F7DAD03278FE661005A9E9E /* Pro_TipUITests.swift */; };
 		0F7DAD06278FE661005A9E9E /* Pro_TipUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F7DAD05278FE661005A9E9E /* Pro_TipUITestsLaunchTests.swift */; };
+		0F7DAD13278FF199005A9E9E /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F7DAD12278FF199005A9E9E /* SettingsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		0F7DACFF278FE661005A9E9E /* Pro-TipUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Pro-TipUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		0F7DAD03278FE661005A9E9E /* Pro_TipUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Pro_TipUITests.swift; sourceTree = "<group>"; };
 		0F7DAD05278FE661005A9E9E /* Pro_TipUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Pro_TipUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		0F7DAD12278FF199005A9E9E /* SettingsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				0F7DACE2278FE65F005A9E9E /* AppDelegate.swift */,
 				0F7DACE4278FE65F005A9E9E /* SceneDelegate.swift */,
 				0F7DACE6278FE65F005A9E9E /* ViewController.swift */,
+				0F7DAD12278FF199005A9E9E /* SettingsViewController.swift */,
 				0F7DACE8278FE65F005A9E9E /* Main.storyboard */,
 				0F7DACEB278FE660005A9E9E /* Assets.xcassets */,
 				0F7DACED278FE660005A9E9E /* LaunchScreen.storyboard */,
@@ -261,6 +264,7 @@
 				0F7DACE7278FE65F005A9E9E /* ViewController.swift in Sources */,
 				0F7DACE3278FE65F005A9E9E /* AppDelegate.swift in Sources */,
 				0F7DACE5278FE65F005A9E9E /* SceneDelegate.swift in Sources */,
+				0F7DAD13278FF199005A9E9E /* SettingsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
